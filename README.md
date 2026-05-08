@@ -1,4 +1,4 @@
-# LAB 13 : Bypass de la Détection de Root Android avec Objection
+#  Bypass de la Détection de Root Android avec Objection
 
 ## Cours
 Sécurité des applications mobiles
