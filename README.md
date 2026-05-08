@@ -142,6 +142,7 @@ adb logcat
 ```
 
 ---
+<img width="1918" height="999" alt="Screenshot 2026-04-26 185110" src="https://github.com/user-attachments/assets/4f080a11-548c-4cb8-862b-3f3e555f1c2b" />
 
 # Étape 6 — Automatiser les commandes
 
