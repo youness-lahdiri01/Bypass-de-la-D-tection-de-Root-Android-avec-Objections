@@ -168,6 +168,7 @@ objection -g com.example.app explore --startup-command-file startup.txt
 ---
 
 # Étape 7 — Hook natif avec Frida
+<img width="1919" height="1029" alt="Screenshot 2026-04-22 144941" src="https://github.com/user-attachments/assets/fc01e509-7e7b-4d06-8575-a9750bf7ab40" />
 
 ## Exemple de script Frida
 
